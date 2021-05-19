@@ -13,10 +13,15 @@ The kernel is a *computer program that is the core of a computers operating syst
 ## Shell 
 A shell is a special *user program* which provides an *interface to the user to use operating system services*. Shell accepts human-readable commands from user and converts them into something which kernel can understand. It is a *command language interpreter* that execute commands read from input devices such as keyboards or from files. The *shell gets started when the user logs in or start the terminal*.
 
+![linuxshell](https://user-images.githubusercontent.com/44089458/113505489-d8b1e880-955c-11eb-9447-c63ac9671211.jpg)
+
+
 Shell is broadly classified into two catergories: 
 1. Command-Line Shell 
 
 Shell can be accessed by the user using a command-line interface. A special program called Terminal in Linux/macOS or Command Prompt in Windows OS is provided to type in the human-readable commands such as “cat”, “ls” etc. and then it is being executed. The result is then displayed on the terminal to the user. A terminal in Ubuntu 20.04 system looks like this –
+![linux5](https://user-images.githubusercontent.com/44089458/113505470-b28c4880-955c-11eb-9813-9a59ca47c578.jpg)
+
 
 2. Graphical Shell 
 
@@ -35,4 +40,8 @@ When you move from one shell to another, UNIX remembers the path you followed by
 
 ## Command Prompt or Prompt 
 It is a short text message at the start of the command line on a command-line interface. Prompts are found on the command line interface of any operating system that provides a command-line interface. It is a default prompt on the bash shell which is a default shell on Linux containing the name of the user, the name of the computer and the name of the current directory(i.e., the directory in which the user is currently working).
+
+## Linux Architecture
+
+![linux6](https://user-images.githubusercontent.com/44089458/113505501-e7989b00-955c-11eb-8d4f-6bb2e2292086.jpg)
 
