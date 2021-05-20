@@ -7,6 +7,13 @@
 
 This repo consists of basic Linux lessons and commands I learned by myself. 
 
+## System description
+- OS - Windows 10
+- Use of Windows Subsystem Linux
+- Linux distribution in use - Ubuntu 
+- Version of Ubuntu -  Ubuntu 20.04.2 LTS
+
+
 ## Introduction 
 - Linux is a community of open-source Unix like operating systems that are based on the Linux Kernel.
 - It is a free and open-source operating system and the source code can be modified and distributed to anyone commercially or non commercially under the GNU General Public License.
